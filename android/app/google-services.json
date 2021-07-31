@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062841702619",
+    "firebase_url": "https://lafoodie-default-rtdb.firebaseio.com",
+    "project_id": "lafoodie",
+    "storage_bucket": "lafoodie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062841702619:android:25d3f1a18479758b7694fe",
+        "android_client_info": {
+          "package_name": "com.restaurant.LaFoodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062841702619-qcg34jr2pf8v57r6kjpdja433mc9qhnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlDY_OxN00hZOOexDyP3QIeKdeUuDGreM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062841702619-qcg34jr2pf8v57r6kjpdja433mc9qhnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
